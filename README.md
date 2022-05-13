@@ -7,7 +7,7 @@
 bikeshare program
 
 ### Description
-Describe what your project is about and what it does
+Bikeshare provides descriptive statistics.
 
 ### Files used
 Include the files used
