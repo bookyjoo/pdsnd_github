@@ -197,6 +197,7 @@ def trip_duration_stats(df):
     print('Total Trip Duration All-Time: ' , sum_years , ' years, ' , days , ' days, ' , hours , ' hours, ' , minutes , ' minutes, ' , seconds , ' seconds.')
     
     # TO DO: display mean travel time
+    # Mean is the same as average
     avg_seconds = df['Trip Duration'].mean()
     
     avg_minutes = np.floor(avg_seconds / 60)
