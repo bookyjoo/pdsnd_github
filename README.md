@@ -17,4 +17,6 @@ chicago.csv
 
 ### Credits
 Credit to Udacity
+Credit to Mom for inspiration
+Credit to dog for encouragement
 
