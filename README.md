@@ -7,7 +7,7 @@
 bikeshare program
 
 ### Description
-Bikeshare provides descriptive statistics.
+Bikeshare provides descriptive statistics. Bikeshare looks at three different cities: Washing, New York City, and Chicago.
 
 ### Files used
 bikeshare.py
